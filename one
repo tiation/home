@@ -1,0 +1,6 @@
+----
+
+## Setting up PopOS for Machine Learning
+
+''sudo apt install -y gpg scdaemon gnupg-agent pcscd gnupg2 #for keys''
+
