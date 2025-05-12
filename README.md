@@ -1,1 +1,1 @@
-# Infrastructure Configuration
+# Core Infrastructure
