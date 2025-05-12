@@ -1,2 +1,1 @@
-# home
-a place for the heart
+# Infrastructure Configuration
